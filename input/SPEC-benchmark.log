@@ -1,0 +1,2398 @@
+Redirecting Options
+  All Streams to console..........On   and file SPEC-benchmark.log
+  Debug Stream to console.........Off
+  Fatal Stream to console.........On 
+  Render Stream to console........On 
+  Statistics Stream to console....On 
+  Warning Stream to console.......Off
+Parsing Options
+  Input file: SPEC-benchmark-ref.pov (compatible to version 3.50)
+  Remove bounds........Off
+  Split unions.........Off
+  Library paths:
+Output Options
+  Image resolution 1280 by 1024 (rows 1 to 1024, columns 1 to 1280).
+  Graphic display......Off
+  Mosaic preview.......Off
+  CPU usage histogram..Off
+  Continued trace......Off
+Tracing Options
+  Quality:  9
+  Bounding boxes.......On   Bounding threshold: 1
+  Light Buffer.........On 
+  Vista Buffer.........On   Draw Vista Buffer....Off
+  Antialiasing.........On  (Method 1, Threshold 0.300, Depth 3, Jitter Off)
+  Clock value:    0.000  (Animation off)
+
+High Quality focal blur used...
+Cleanup Parse Warning: Focal blur is used. Standard antialiasing is switched
+ off.
+Scene Statistics
+  Finite objects:          190
+  Infinite objects:         10
+  Light sources:             1
+  Total:                   201
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:                0   Samples:               0
+Rays:                  0   Saved:                 0   Max Level: 0/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             1280   Samples:            8960
+Rays:               8960   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection                232960               0
+Plane                           537600          510304
+Quadric                          89600           17440
+Sphere                          860160               0
+Bounding Box                     71680               0
+Light Buffer                    146305          103865
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:              8960   Succeeded:                     0
+Bounding Queues:             197120
+Queue Resets:                 17920   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             2560   Samples:           17920
+Rays:              17920   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection                465920               0
+Plane                          1075200         1020464
+Quadric                         179200           34852
+Sphere                         1720320               0
+Bounding Box                    143360               0
+Light Buffer                    292898          207762
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             17920   Succeeded:                     0
+Bounding Queues:             394240
+Queue Resets:                 35840   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             3840   Samples:           26880
+Rays:              26880   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection                698880               0
+Plane                          1612800         1530588
+Quadric                         268800           52237
+Sphere                         2580480               0
+Bounding Box                    215040               0
+Light Buffer                    439554          311666
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             26880   Succeeded:                     0
+Bounding Queues:             591360
+Queue Resets:                 53760   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             5120   Samples:           35840
+Rays:              35840   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection                931840               0
+Plane                          2150400         2040552
+Quadric                         358400           69608
+Sphere                         3440640               0
+Bounding Box                    286720               0
+Light Buffer                    586606          415614
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             35840   Succeeded:                     0
+Bounding Queues:             788480
+Queue Resets:                 71680   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             6400   Samples:           44800
+Rays:              44800   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               1164800               0
+Plane                          2688000         2550412
+Quadric                         448000           86970
+Sphere                         4300800               0
+Bounding Box                    358400               0
+Light Buffer                    733856          519584
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             44800   Succeeded:                     0
+Bounding Queues:             985600
+Queue Resets:                 89600   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             7680   Samples:           53760
+Rays:              53760   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               1397760               0
+Plane                          3225600         3060144
+Quadric                         537600          104296
+Sphere                         5160960               0
+Bounding Box                    430080               0
+Light Buffer                    881385          623585
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             53760   Succeeded:                     0
+Bounding Queues:            1182720
+Queue Resets:                107520   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:             8960   Samples:           62720
+Rays:              62720   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               1630720               0
+Plane                          3763200         3569808
+Quadric                         627200          121606
+Sphere                         6021120               0
+Bounding Box                    501760               0
+Light Buffer                   1029094          727606
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             62720   Succeeded:                     0
+Bounding Queues:            1379840
+Queue Resets:                125440   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            10240   Samples:           71680
+Rays:              71680   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               1863680               0
+Plane                          4300800         4079376
+Quadric                         716800          138892
+Sphere                         6881280               0
+Bounding Box                    573440               0
+Light Buffer                   1177046          831654
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             71680   Succeeded:                     0
+Bounding Queues:            1576960
+Queue Resets:                143360   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            11520   Samples:           80640
+Rays:              80640   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               2096640               0
+Plane                          4838400         4588792
+Quadric                         806400          156161
+Sphere                         7741440               0
+Bounding Box                    645120               0
+Light Buffer                   1325277          935733
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             80640   Succeeded:                     0
+Bounding Queues:            1774080
+Queue Resets:                161280   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            12800   Samples:           89600
+Rays:              89600   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               2329600               0
+Plane                          5376000         5098116
+Quadric                         896000          173403
+Sphere                         8601600               0
+Bounding Box                    716800               0
+Light Buffer                   1473697         1039833
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             89600   Succeeded:                     0
+Bounding Queues:            1971200
+Queue Resets:                179200   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            14080   Samples:           98560
+Rays:              98560   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               2562560               0
+Plane                          5913600         5607336
+Quadric                         985600          190632
+Sphere                         9461760               0
+Bounding Box                    788480               0
+Light Buffer                   1622387         1143963
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:             98560   Succeeded:                     0
+Bounding Queues:            2168320
+Queue Resets:                197120   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            15360   Samples:          107520
+Rays:             107520   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               2795520               0
+Plane                          6451200         6116416
+Quadric                        1075200          207838
+Sphere                        10321920               0
+Bounding Box                    860160               0
+Light Buffer                   1771311         1248119
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            107520   Succeeded:                     0
+Bounding Queues:            2365440
+Queue Resets:                215040   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            16640   Samples:          116480
+Rays:             116480   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               3028480               0
+Plane                          6988800         6625432
+Quadric                        1164800          225015
+Sphere                        11182080               0
+Bounding Box                    931840               0
+Light Buffer                   1920496         1352304
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            116480   Succeeded:                     0
+Bounding Queues:            2562560
+Queue Resets:                232960   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            17920   Samples:          125440
+Rays:             125440   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               3261440               0
+Plane                          7526400         7134308
+Quadric                        1254400          242183
+Sphere                        12042240               0
+Bounding Box                   1003520               0
+Light Buffer                   2069933         1456517
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            125440   Succeeded:                     0
+Bounding Queues:            2759680
+Queue Resets:                250880   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            19200   Samples:          134400
+Rays:             134400   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               3494400               0
+Plane                          8064000         7643080
+Quadric                        1344000          259324
+Sphere                        12902400               0
+Bounding Box                   1075200               0
+Light Buffer                   2219604         1560756
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            134400   Succeeded:                     0
+Bounding Queues:            2956800
+Queue Resets:                268800   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            20480   Samples:          143360
+Rays:             143360   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               3727360               0
+Plane                          8601600         8151760
+Quadric                        1433600          276446
+Sphere                        13762560               0
+Bounding Box                   1146880               0
+Light Buffer                   2369464         1665016
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            143360   Succeeded:                     0
+Bounding Queues:            3153920
+Queue Resets:                286720   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            21760   Samples:          152320
+Rays:             152320   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               3960320               0
+Plane                          9139200         8660328
+Quadric                        1523200          293556
+Sphere                        14622720               0
+Bounding Box                   1218560               0
+Light Buffer                   2519576         1769304
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            152320   Succeeded:                     0
+Bounding Queues:            3351040
+Queue Resets:                304640   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            23040   Samples:          161280
+Rays:             161280   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               4193280               0
+Plane                          9676800         9168776
+Quadric                        1612800          310642
+Sphere                        15482880               0
+Bounding Box                   1290240               0
+Light Buffer                   2670012         1873628
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            161280   Succeeded:                     0
+Bounding Queues:            3548160
+Queue Resets:                322560   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            24320   Samples:          170240
+Rays:             170240   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               4426240               0
+Plane                         10214400         9677124
+Quadric                        1702400          327702
+Sphere                        16343040               0
+Bounding Box                   1361920               0
+Light Buffer                   2820637         1977973
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            170240   Succeeded:                     0
+Bounding Queues:            3745280
+Queue Resets:                340480   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            25600   Samples:          179200
+Rays:             179200   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               4659200               0
+Plane                         10752000        10185404
+Quadric                        1792000          344747
+Sphere                        17203200               0
+Bounding Box                   1433600               0
+Light Buffer                   2971496         2082344
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            179200   Succeeded:                     0
+Bounding Queues:            3942400
+Queue Resets:                358400   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            26880   Samples:          188160
+Rays:             188160   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               4892160               0
+Plane                         11289600        10693552
+Quadric                        1881600          361768
+Sphere                        18063360               0
+Bounding Box                   1505280               0
+Light Buffer                   3122616         2186744
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            188160   Succeeded:                     0
+Bounding Queues:            4139520
+Queue Resets:                376320   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            28160   Samples:          197120
+Rays:             197120   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               5125120               0
+Plane                         11827200        11201580
+Quadric                        1971200          378768
+Sphere                        18923520               0
+Bounding Box                   1576960               0
+Light Buffer                   3273943         2291167
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            197120   Succeeded:                     0
+Bounding Queues:            4336640
+Queue Resets:                394240   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            29440   Samples:          206080
+Rays:             206080   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               5358080               0
+Plane                         12364800        11709532
+Quadric                        2060800          395747
+Sphere                        19783680               0
+Bounding Box                   1648640               0
+Light Buffer                   3425522         2395618
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            206080   Succeeded:                     0
+Bounding Queues:            4533760
+Queue Resets:                412160   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            30720   Samples:          215040
+Rays:             215040   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               5591040               0
+Plane                         12902400        12217388
+Quadric                        2150400          412703
+Sphere                        20643840               0
+Bounding Box                   1720320               0
+Light Buffer                   3577326         2500094
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            215040   Succeeded:                     0
+Bounding Queues:            4730880
+Queue Resets:                430080   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            32000   Samples:          224000
+Rays:             224000   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               5824000               0
+Plane                         13440000        12725100
+Quadric                        2240000          429643
+Sphere                        21504000               0
+Bounding Box                   1792000               0
+Light Buffer                   3729382         2604598
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            224000   Succeeded:                     0
+Bounding Queues:            4928000
+Queue Resets:                448000   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            33280   Samples:          232960
+Rays:             232960   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               6056960               0
+Plane                         13977600        13232680
+Quadric                        2329600          446554
+Sphere                        22364160               0
+Bounding Box                   1863680               0
+Light Buffer                   3881717         2709133
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            232960   Succeeded:                     0
+Bounding Queues:            5125120
+Queue Resets:                465920   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            34560   Samples:          241920
+Rays:             241920   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               6289920               0
+Plane                         14515200        13740184
+Quadric                        2419200          463444
+Sphere                        23224320               0
+Bounding Box                   1935360               0
+Light Buffer                   4034223         2813687
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            241920   Succeeded:                     0
+Bounding Queues:            5322240
+Queue Resets:                483840   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            35840   Samples:          250880
+Rays:             250880   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               6522880               0
+Plane                         15052800        14247620
+Quadric                        2508800          480329
+Sphere                        24084480               0
+Bounding Box                   2007040               0
+Light Buffer                   4186909         2918261
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            250880   Succeeded:                     0
+Bounding Queues:            5519360
+Queue Resets:                501760   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            37120   Samples:          259840
+Rays:             259840   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               6755840               0
+Plane                         15590400        14754904
+Quadric                        2598400          497185
+Sphere                        24944640               0
+Bounding Box                   2078720               0
+Light Buffer                   4339874         3022866
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            259840   Succeeded:                     0
+Bounding Queues:            5716480
+Queue Resets:                519680   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            38400   Samples:          268800
+Rays:             268800   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               6988800               0
+Plane                         16128000        15262088
+Quadric                        2688000          514029
+Sphere                        25804800               0
+Bounding Box                   2150400               0
+Light Buffer                   4493136         3127504
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            268800   Succeeded:                     0
+Bounding Queues:            5913600
+Queue Resets:                537600   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            39680   Samples:          277760
+Rays:             277760   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               7221760               0
+Plane                         16665600        15769160
+Quadric                        2777600          530845
+Sphere                        26664960               0
+Bounding Box                   2222080               0
+Light Buffer                   4646632         3232168
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            277760   Succeeded:                     0
+Bounding Queues:            6110720
+Queue Resets:                555520   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            40960   Samples:          286720
+Rays:             286720   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               7454720               0
+Plane                         17203200        16276108
+Quadric                        2867200          547641
+Sphere                        27525120               0
+Bounding Box                   2293760               0
+Light Buffer                   4800353         3336857
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            286720   Succeeded:                     0
+Bounding Queues:            6307840
+Queue Resets:                573440   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            42240   Samples:          295680
+Rays:             295680   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               7687680               0
+Plane                         17740800        16782940
+Quadric                        2956800          564427
+Sphere                        28385280               0
+Bounding Box                   2365440               0
+Light Buffer                   4954362         3441578
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            295680   Succeeded:                     0
+Bounding Queues:            6504960
+Queue Resets:                591360   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            43520   Samples:          304640
+Rays:             304640   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               7920640               0
+Plane                         18278400        17289684
+Quadric                        3046400          581182
+Sphere                        29245440               0
+Bounding Box                   2437120               0
+Light Buffer                   5108578         3546322
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            304640   Succeeded:                     0
+Bounding Queues:            6702080
+Queue Resets:                609280   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            44800   Samples:          313600
+Rays:             313600   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               8153600               0
+Plane                         18816000        17796324
+Quadric                        3136000          597926
+Sphere                        30105600               0
+Bounding Box                   2508800               0
+Light Buffer                   5263037         3651093
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            313600   Succeeded:                     0
+Bounding Queues:            6899200
+Queue Resets:                627200   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            46080   Samples:          322560
+Rays:             322560   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               8386560               0
+Plane                         19353600        18302808
+Quadric                        3225600          614640
+Sphere                        30965760               0
+Bounding Box                   2580480               0
+Light Buffer                   5417820         3755900
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            322560   Succeeded:                     0
+Bounding Queues:            7096320
+Queue Resets:                645120   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            47360   Samples:          331520
+Rays:             331520   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               8619520               0
+Plane                         19891200        18809212
+Quadric                        3315200          631336
+Sphere                        31825920               0
+Bounding Box                   2652160               0
+Light Buffer                   5572801         3860729
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            331520   Succeeded:                     0
+Bounding Queues:            7293440
+Queue Resets:                663040   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            48640   Samples:          340480
+Rays:             340480   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               8852480               0
+Plane                         20428800        19315512
+Quadric                        3404800          648016
+Sphere                        32686080               0
+Bounding Box                   2723840               0
+Light Buffer                   5727971         3965579
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            340480   Succeeded:                     0
+Bounding Queues:            7490560
+Queue Resets:                680960   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            49920   Samples:          349440
+Rays:             349440   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               9085440               0
+Plane                         20966400        19821756
+Quadric                        3494400          664672
+Sphere                        33546240               0
+Bounding Box                   2795520               0
+Light Buffer                   5883303         4070447
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            349440   Succeeded:                     0
+Bounding Queues:            7687680
+Queue Resets:                698880   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            51200   Samples:          358400
+Rays:             358400   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               9318400               0
+Plane                         21504000        20327828
+Quadric                        3584000          681305
+Sphere                        34406400               0
+Bounding Box                   2867200               0
+Light Buffer                   6038986         4175354
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            358400   Succeeded:                     0
+Bounding Queues:            7884800
+Queue Resets:                716800   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            52480   Samples:          367360
+Rays:             367360   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               9551360               0
+Plane                         22041600        20833768
+Quadric                        3673600          697923
+Sphere                        35266560               0
+Bounding Box                   2938880               0
+Light Buffer                   6194993         4280297
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            367360   Succeeded:                     0
+Bounding Queues:            8081920
+Queue Resets:                734720   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            53760   Samples:          376320
+Rays:             376320   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection               9784320               0
+Plane                         22579200        21339624
+Quadric                        3763200          714516
+Sphere                        36126720               0
+Bounding Box                   3010560               0
+Light Buffer                   6351144         4385256
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            376320   Succeeded:                     0
+Bounding Queues:            8279040
+Queue Resets:                752640   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            55040   Samples:          385280
+Rays:             385280   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              10017280               0
+Plane                         23116800        21845376
+Quadric                        3852800          731103
+Sphere                        36986880               0
+Bounding Box                   3082240               0
+Light Buffer                   6507538         4490242
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            385280   Succeeded:                     0
+Bounding Queues:            8476160
+Queue Resets:                770560   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            56320   Samples:          394240
+Rays:             394240   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              10250240               0
+Plane                         23654400        22351024
+Quadric                        3942400          747654
+Sphere                        37847040               0
+Bounding Box                   3153920               0
+Light Buffer                   6664184         4595256
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            394240   Succeeded:                     0
+Bounding Queues:            8673280
+Queue Resets:                788480   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            57600   Samples:          403200
+Rays:             403200   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              10483200               0
+Plane                         24192000        22856556
+Quadric                        4032000          764189
+Sphere                        38707200               0
+Bounding Box                   3225600               0
+Light Buffer                   6821091         4700299
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            403200   Succeeded:                     0
+Bounding Queues:            8870400
+Queue Resets:                806400   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            58880   Samples:          412160
+Rays:             412160   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              10716160               0
+Plane                         24729600        23361972
+Quadric                        4121600          780709
+Sphere                        39567360               0
+Bounding Box                   3297280               0
+Light Buffer                   6978286         4805374
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            412160   Succeeded:                     0
+Bounding Queues:            9067520
+Queue Resets:                824320   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            60160   Samples:          421120
+Rays:             421120   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              10949120               0
+Plane                         25267200        23867320
+Quadric                        4211200          797212
+Sphere                        40427520               0
+Bounding Box                   3368960               0
+Light Buffer                   7135625         4910465
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            421120   Succeeded:                     0
+Bounding Queues:            9264640
+Queue Resets:                842240   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            61440   Samples:          430080
+Rays:             430080   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              11182080               0
+Plane                         25804800        24372564
+Quadric                        4300800          813682
+Sphere                        41287680               0
+Bounding Box                   3440640               0
+Light Buffer                   7293171         5015579
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            430080   Succeeded:                     0
+Bounding Queues:            9461760
+Queue Resets:                860160   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            62720   Samples:          439040
+Rays:             439040   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              11415040               0
+Plane                         26342400        24877660
+Quadric                        4390400          830149
+Sphere                        42147840               0
+Bounding Box                   3512320               0
+Light Buffer                   7451023         5120727
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            439040   Succeeded:                     0
+Bounding Queues:            9658880
+Queue Resets:                878080   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            64000   Samples:          448000
+Rays:             448000   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              11648000               0
+Plane                         26880000        25382672
+Quadric                        4480000          846585
+Sphere                        43008000               0
+Bounding Box                   3584000               0
+Light Buffer                   7609073         5225897
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            448000   Succeeded:                     0
+Bounding Queues:            9856000
+Queue Resets:                896000   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            65280   Samples:          456960
+Rays:             456960   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              11880960               0
+Plane                         27417600        25887612
+Quadric                        4569600          862997
+Sphere                        43868160               0
+Bounding Box                   3655680               0
+Light Buffer                   7767339         5331091
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            456960   Succeeded:                     0
+Bounding Queues:           10053120
+Queue Resets:                913920   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            66560   Samples:          465920
+Rays:             465920   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              12113920               0
+Plane                         27955200        26392424
+Quadric                        4659200          879395
+Sphere                        44728320               0
+Bounding Box                   3727360               0
+Light Buffer                   7925884         5436316
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            465920   Succeeded:                     0
+Bounding Queues:           10250240
+Queue Resets:                931840   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            67840   Samples:          474880
+Rays:             474880   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              12346880               0
+Plane                         28492800        26897116
+Quadric                        4748800          895779
+Sphere                        45588480               0
+Bounding Box                   3799040               0
+Light Buffer                   8084672         5541568
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            474880   Succeeded:                     0
+Bounding Queues:           10447360
+Queue Resets:                949760   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            69120   Samples:          483840
+Rays:             483840   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              12579840               0
+Plane                         29030400        27401676
+Quadric                        4838400          912133
+Sphere                        46448640               0
+Bounding Box                   3870720               0
+Light Buffer                   8243766         5646854
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            483840   Succeeded:                     0
+Bounding Queues:           10644480
+Queue Resets:                967680   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            70400   Samples:          492800
+Rays:             492800   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              12812800               0
+Plane                         29568000        27906168
+Quadric                        4928000          928488
+Sphere                        47308800               0
+Bounding Box                   3942400               0
+Light Buffer                   8402995         5752155
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            492800   Succeeded:                     0
+Bounding Queues:           10841600
+Queue Resets:                985600   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            71680   Samples:          501760
+Rays:             501760   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              13045760               0
+Plane                         30105600        28410524
+Quadric                        5017600          944799
+Sphere                        48168960               0
+Bounding Box                   4014080               0
+Light Buffer                   8562494         5857486
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            501760   Succeeded:                     0
+Bounding Queues:           11038720
+Queue Resets:               1003520   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            72960   Samples:          510720
+Rays:             510720   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              13278720               0
+Plane                         30643200        28914776
+Quadric                        5107200          961096
+Sphere                        49029120               0
+Bounding Box                   4085760               0
+Light Buffer                   8722281         5962849
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            510720   Succeeded:                     0
+Bounding Queues:           11235840
+Queue Resets:               1021440   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            74240   Samples:          519680
+Rays:             519680   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              13511680               0
+Plane                         31180800        29418888
+Quadric                        5196800          977382
+Sphere                        49889280               0
+Bounding Box                   4157440               0
+Light Buffer                   8882347         6068243
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            519680   Succeeded:                     0
+Bounding Queues:           11432960
+Queue Resets:               1039360   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            75520   Samples:          528640
+Rays:             528640   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              13744640               0
+Plane                         31718400        29922984
+Quadric                        5286400          993642
+Sphere                        50749440               0
+Bounding Box                   4229120               0
+Light Buffer                   9042539         6173651
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            528640   Succeeded:                     0
+Bounding Queues:           11630080
+Queue Resets:               1057280   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            76800   Samples:          537600
+Rays:             537600   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              13977600               0
+Plane                         32256000        30426924
+Quadric                        5376000         1009879
+Sphere                        51609600               0
+Bounding Box                   4300800               0
+Light Buffer                   9202992         6279088
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            537600   Succeeded:                     0
+Bounding Queues:           11827200
+Queue Resets:               1075200   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            78080   Samples:          546560
+Rays:             546560   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              14210560               0
+Plane                         32793600        30930728
+Quadric                        5465600         1026088
+Sphere                        52469760               0
+Bounding Box                   4372480               0
+Light Buffer                   9363742         6384558
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            546560   Succeeded:                     0
+Bounding Queues:           12024320
+Queue Resets:               1093120   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            79360   Samples:          555520
+Rays:             555520   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              14443520               0
+Plane                         33331200        31434428
+Quadric                        5555200         1042297
+Sphere                        53329920               0
+Bounding Box                   4444160               0
+Light Buffer                   9524690         6490050
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            555520   Succeeded:                     0
+Bounding Queues:           12221440
+Queue Resets:               1111040   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            80640   Samples:          564480
+Rays:             564480   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              14676480               0
+Plane                         33868800        31938052
+Quadric                        5644800         1058482
+Sphere                        54190080               0
+Bounding Box                   4515840               0
+Light Buffer                   9685836         6595564
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            564480   Succeeded:                     0
+Bounding Queues:           12418560
+Queue Resets:               1128960   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            81920   Samples:          573440
+Rays:             573440   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              14909440               0
+Plane                         34406400        32441512
+Quadric                        5734400         1074642
+Sphere                        55050240               0
+Bounding Box                   4587520               0
+Light Buffer                   9847342         6701118
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            573440   Succeeded:                     0
+Bounding Queues:           12615680
+Queue Resets:               1146880   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            83200   Samples:          582400
+Rays:             582400   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              15142400               0
+Plane                         34944000        32944896
+Quadric                        5824000         1090791
+Sphere                        55910400               0
+Bounding Box                   4659200               0
+Light Buffer                  10009010         6806690
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            582400   Succeeded:                     0
+Bounding Queues:           12812800
+Queue Resets:               1164800   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            84480   Samples:          591360
+Rays:             591360   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              15375360               0
+Plane                         35481600        33448160
+Quadric                        5913600         1106916
+Sphere                        56770560               0
+Bounding Box                   4730880               0
+Light Buffer                  10170948         6912292
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            591360   Succeeded:                     0
+Bounding Queues:           13009920
+Queue Resets:               1182720   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            85760   Samples:          600320
+Rays:             600320   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              15608320               0
+Plane                         36019200        33951340
+Quadric                        6003200         1123024
+Sphere                        57630720               0
+Bounding Box                   4802560               0
+Light Buffer                  10333102         7017918
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            600320   Succeeded:                     0
+Bounding Queues:           13207040
+Queue Resets:               1200640   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            87040   Samples:          609280
+Rays:             609280   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              15841280               0
+Plane                         36556800        34454384
+Quadric                        6092800         1139109
+Sphere                        58490880               0
+Bounding Box                   4874240               0
+Light Buffer                  10495517         7123573
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            609280   Succeeded:                     0
+Bounding Queues:           13404160
+Queue Resets:               1218560   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            88320   Samples:          618240
+Rays:             618240   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              16074240               0
+Plane                         37094400        34957360
+Quadric                        6182400         1155168
+Sphere                        59351040               0
+Bounding Box                   4945920               0
+Light Buffer                  10658157         7229253
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            618240   Succeeded:                     0
+Bounding Queues:           13601280
+Queue Resets:               1236480   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            89600   Samples:          627200
+Rays:             627200   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              16307200               0
+Plane                         37632000        35460196
+Quadric                        6272000         1171214
+Sphere                        60211200               0
+Bounding Box                   5017600               0
+Light Buffer                  10821094         7334966
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            627200   Succeeded:                     0
+Bounding Queues:           13798400
+Queue Resets:               1254400   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            90880   Samples:          636160
+Rays:             636160   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              16540160               0
+Plane                         38169600        35962952
+Quadric                        6361600         1187250
+Sphere                        61071360               0
+Bounding Box                   5089280               0
+Light Buffer                  10984193         7440697
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            636160   Succeeded:                     0
+Bounding Queues:           13995520
+Queue Resets:               1272320   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            92160   Samples:          645120
+Rays:             645120   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              16773120               0
+Plane                         38707200        36465584
+Quadric                        6451200         1203256
+Sphere                        61931520               0
+Bounding Box                   5160960               0
+Light Buffer                  11147598         7546462
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            645120   Succeeded:                     0
+Bounding Queues:           14192640
+Queue Resets:               1290240   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            93440   Samples:          654080
+Rays:             654080   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              17006080               0
+Plane                         39244800        36968096
+Quadric                        6540800         1219238
+Sphere                        62791680               0
+Bounding Box                   5232640               0
+Light Buffer                  11311255         7652255
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            654080   Succeeded:                     0
+Bounding Queues:           14389760
+Queue Resets:               1308160   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            94720   Samples:          663040
+Rays:             663040   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              17239040               0
+Plane                         39782400        37470516
+Quadric                        6630400         1235203
+Sphere                        63651840               0
+Bounding Box                   5304320               0
+Light Buffer                  11475119         7758071
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            663040   Succeeded:                     0
+Bounding Queues:           14586880
+Queue Resets:               1326080   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            96000   Samples:          672000
+Rays:             672000   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              17472000               0
+Plane                         40320000        37972848
+Quadric                        6720000         1251161
+Sphere                        64512000               0
+Bounding Box                   5376000               0
+Light Buffer                  11639172         7863908
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            672000   Succeeded:                     0
+Bounding Queues:           14784000
+Queue Resets:               1344000   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            97280   Samples:          680960
+Rays:             680960   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              17704960               0
+Plane                         40857600        38475040
+Quadric                        6809600         1267095
+Sphere                        65372160               0
+Bounding Box                   5447680               0
+Light Buffer                  11803504         7969776
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            680960   Succeeded:                     0
+Bounding Queues:           14981120
+Queue Resets:               1361920   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            98560   Samples:          689920
+Rays:             689920   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              17937920               0
+Plane                         41395200        38977144
+Quadric                        6899200         1283019
+Sphere                        66232320               0
+Bounding Box                   5519360               0
+Light Buffer                  11968043         8075667
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            689920   Succeeded:                     0
+Bounding Queues:           15178240
+Queue Resets:               1379840   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:            99840   Samples:          698880
+Rays:             698880   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              18170880               0
+Plane                         41932800        39479088
+Quadric                        6988800         1298908
+Sphere                        67092480               0
+Bounding Box                   5591040               0
+Light Buffer                  12132933         8181597
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            698880   Succeeded:                     0
+Bounding Queues:           15375360
+Queue Resets:               1397760   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           101120   Samples:          707840
+Rays:             707840   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              18403840               0
+Plane                         42470400        39980948
+Quadric                        7078400         1314776
+Sphere                        67952640               0
+Bounding Box                   5662720               0
+Light Buffer                  12298021         8287549
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            707840   Succeeded:                     0
+Bounding Queues:           15572480
+Queue Resets:               1415680   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           102400   Samples:          716800
+Rays:             716800   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              18636800               0
+Plane                         43008000        40482728
+Quadric                        7168000         1330632
+Sphere                        68812800               0
+Bounding Box                   5734400               0
+Light Buffer                  12463298         8393522
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            716800   Succeeded:                     0
+Bounding Queues:           15769600
+Queue Resets:               1433600   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           103680   Samples:          725760
+Rays:             725760   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              18869760               0
+Plane                         43545600        40984356
+Quadric                        7257600         1346464
+Sphere                        69672960               0
+Bounding Box                   5806080               0
+Light Buffer                  12628890         8499530
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            725760   Succeeded:                     0
+Bounding Queues:           15966720
+Queue Resets:               1451520   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           104960   Samples:          734720
+Rays:             734720   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              19102720               0
+Plane                         44083200        41485896
+Quadric                        7347200         1362285
+Sphere                        70533120               0
+Bounding Box                   5877760               0
+Light Buffer                  12794662         8605558
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            734720   Succeeded:                     0
+Bounding Queues:           16163840
+Queue Resets:               1469440   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           106240   Samples:          743680
+Rays:             743680   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              19335680               0
+Plane                         44620800        41987400
+Quadric                        7436800         1378079
+Sphere                        71393280               0
+Bounding Box                   5949440               0
+Light Buffer                  12960614         8711606
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            743680   Succeeded:                     0
+Bounding Queues:           16360960
+Queue Resets:               1487360   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           107520   Samples:          752640
+Rays:             752640   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              19568640               0
+Plane                         45158400        42488748
+Quadric                        7526400         1393861
+Sphere                        72253440               0
+Bounding Box                   6021120               0
+Light Buffer                  13126854         8817686
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            752640   Succeeded:                     0
+Bounding Queues:           16558080
+Queue Resets:               1505280   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           108800   Samples:          761600
+Rays:             761600   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              19801600               0
+Plane                         45696000        42989976
+Quadric                        7616000         1409618
+Sphere                        73113600               0
+Bounding Box                   6092800               0
+Light Buffer                  13293355         8923795
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            761600   Succeeded:                     0
+Bounding Queues:           16755200
+Queue Resets:               1523200   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           110080   Samples:          770560
+Rays:             770560   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              20034560               0
+Plane                         46233600        43491128
+Quadric                        7705600         1425353
+Sphere                        73973760               0
+Bounding Box                   6164480               0
+Light Buffer                  13460027         9029923
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            770560   Succeeded:                     0
+Bounding Queues:           16952320
+Queue Resets:               1541120   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           111360   Samples:          779520
+Rays:             779520   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              20267520               0
+Plane                         46771200        43992140
+Quadric                        7795200         1441070
+Sphere                        74833920               0
+Bounding Box                   6236160               0
+Light Buffer                  13626969         9136081
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            779520   Succeeded:                     0
+Bounding Queues:           17149440
+Queue Resets:               1559040   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           112640   Samples:          788480
+Rays:             788480   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              20500480               0
+Plane                         47308800        44493052
+Quadric                        7884800         1456769
+Sphere                        75694080               0
+Bounding Box                   6307840               0
+Light Buffer                  13794226         9242274
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            788480   Succeeded:                     0
+Bounding Queues:           17346560
+Queue Resets:               1576960   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           113920   Samples:          797440
+Rays:             797440   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              20733440               0
+Plane                         47846400        44993816
+Quadric                        7974400         1472447
+Sphere                        76554240               0
+Bounding Box                   6379520               0
+Light Buffer                  13961726         9348494
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            797440   Succeeded:                     0
+Bounding Queues:           17543680
+Queue Resets:               1594880   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           115200   Samples:          806400
+Rays:             806400   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              20966400               0
+Plane                         48384000        45494512
+Quadric                        8064000         1488116
+Sphere                        77414400               0
+Bounding Box                   6451200               0
+Light Buffer                  14129397         9454733
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            806400   Succeeded:                     0
+Bounding Queues:           17740800
+Queue Resets:               1612800   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           116480   Samples:          815360
+Rays:             815360   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              21199360               0
+Plane                         48921600        45995060
+Quadric                        8153600         1503756
+Sphere                        78274560               0
+Bounding Box                   6522880               0
+Light Buffer                  14297392         9561008
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            815360   Succeeded:                     0
+Bounding Queues:           17937920
+Queue Resets:               1630720   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           117760   Samples:          824320
+Rays:             824320   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              21432320               0
+Plane                         49459200        46495560
+Quadric                        8243200         1519384
+Sphere                        79134720               0
+Bounding Box                   6594560               0
+Light Buffer                  14465531         9667299
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            824320   Succeeded:                     0
+Bounding Queues:           18135040
+Queue Resets:               1648640   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           119040   Samples:          833280
+Rays:             833280   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              21665280               0
+Plane                         49996800        46995916
+Quadric                        8332800         1534993
+Sphere                        79994880               0
+Bounding Box                   6666240               0
+Light Buffer                  14633994         9773626
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            833280   Succeeded:                     0
+Bounding Queues:           18332160
+Queue Resets:               1666560   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           120320   Samples:          842240
+Rays:             842240   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              21898240               0
+Plane                         50534400        47496156
+Quadric                        8422400         1550595
+Sphere                        80855040               0
+Bounding Box                   6737920               0
+Light Buffer                  14802664         9879976
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            842240   Succeeded:                     0
+Bounding Queues:           18529280
+Queue Resets:               1684480   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           121600   Samples:          851200
+Rays:             851200   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              22131200               0
+Plane                         51072000        47996276
+Quadric                        8512000         1566162
+Sphere                        81715200               0
+Bounding Box                   6809600               0
+Light Buffer                  14971604         9986356
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            851200   Succeeded:                     0
+Bounding Queues:           18726400
+Queue Resets:               1702400   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           122880   Samples:          860160
+Rays:             860160   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              22364160               0
+Plane                         51609600        48496276
+Quadric                        8601600         1581716
+Sphere                        82575360               0
+Bounding Box                   6881280               0
+Light Buffer                  15140841        10092769
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            860160   Succeeded:                     0
+Bounding Queues:           18923520
+Queue Resets:               1720320   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           124160   Samples:          869120
+Rays:             869120   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              22597120               0
+Plane                         52147200        48996212
+Quadric                        8691200         1597256
+Sphere                        83435520               0
+Bounding Box                   6952960               0
+Light Buffer                  15310231        10199199
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            869120   Succeeded:                     0
+Bounding Queues:           19120640
+Queue Resets:               1738240   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           125440   Samples:          878080
+Rays:             878080   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              22830080               0
+Plane                         52684800        49496024
+Quadric                        8780800         1612777
+Sphere                        84295680               0
+Bounding Box                   7024640               0
+Light Buffer                  15479855        10305655
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            878080   Succeeded:                     0
+Bounding Queues:           19317760
+Queue Resets:               1756160   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           126720   Samples:          887040
+Rays:             887040   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              23063040               0
+Plane                         53222400        49995748
+Quadric                        8870400         1628269
+Sphere                        85155840               0
+Bounding Box                   7096320               0
+Light Buffer                  15649722        10412138
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            887040   Succeeded:                     0
+Bounding Queues:           19514880
+Queue Resets:               1774080   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           128000   Samples:          896000
+Rays:             896000   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              23296000               0
+Plane                         53760000        50495332
+Quadric                        8960000         1643743
+Sphere                        86016000               0
+Bounding Box                   7168000               0
+Light Buffer                  15819904        10518656
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            896000   Succeeded:                     0
+Bounding Queues:           19712000
+Queue Resets:               1792000   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           129280   Samples:          904960
+Rays:             904960   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              23528960               0
+Plane                         54297600        50994836
+Quadric                        9049600         1659202
+Sphere                        86876160               0
+Bounding Box                   7239680               0
+Light Buffer                  15990239        10625191
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            904960   Succeeded:                     0
+Bounding Queues:           19909120
+Queue Resets:               1809920   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           130560   Samples:          913920
+Rays:             913920   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              23761920               0
+Plane                         54835200        51494228
+Quadric                        9139200         1674642
+Sphere                        87736320               0
+Bounding Box                   7311360               0
+Light Buffer                  16160844        10731756
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            913920   Succeeded:                     0
+Bounding Queues:           20106240
+Queue Resets:               1827840   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           131840   Samples:          922880
+Rays:             922880   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              23994880               0
+Plane                         55372800        51993508
+Quadric                        9228800         1690057
+Sphere                        88596480               0
+Bounding Box                   7383040               0
+Light Buffer                  16331674        10838346
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            922880   Succeeded:                     0
+Bounding Queues:           20303360
+Queue Resets:               1845760   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           133120   Samples:          931840
+Rays:             931840   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              24227840               0
+Plane                         55910400        52492672
+Quadric                        9318400         1705464
+Sphere                        89456640               0
+Bounding Box                   7454720               0
+Light Buffer                  16502792        10944968
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            931840   Succeeded:                     0
+Bounding Queues:           20500480
+Queue Resets:               1863680   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           134400   Samples:          940800
+Rays:             940800   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              24460800               0
+Plane                         56448000        52991728
+Quadric                        9408000         1720857
+Sphere                        90316800               0
+Bounding Box                   7526400               0
+Light Buffer                  16674117        11051613
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            940800   Succeeded:                     0
+Bounding Queues:           20697600
+Queue Resets:               1881600   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           135680   Samples:          949760
+Rays:             949760   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              24693760               0
+Plane                         56985600        53490724
+Quadric                        9497600         1736216
+Sphere                        91176960               0
+Bounding Box                   7598080               0
+Light Buffer                  16845631        11158279
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            949760   Succeeded:                     0
+Bounding Queues:           20894720
+Queue Resets:               1899520   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           136960   Samples:          958720
+Rays:             958720   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              24926720               0
+Plane                         57523200        53989592
+Quadric                        9587200         1751560
+Sphere                        92037120               0
+Bounding Box                   7670096              28
+Light Buffer                  17017424        11264976
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            958720   Succeeded:                     0
+Bounding Queues:           21091868
+Queue Resets:               1917440   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           138240   Samples:          967680
+Rays:             967680   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              25159680               0
+Plane                         58060800        54488340
+Quadric                        9676800         1766891
+Sphere                        92897280               0
+Bounding Box                   7742760             110
+Light Buffer                  17189460        11371700
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            967680   Succeeded:                     0
+Bounding Queues:           21289070
+Queue Resets:               1935360   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           139520   Samples:          976640
+Rays:             976640   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              25392640               0
+Plane                         58598400        54986976
+Quadric                        9766400         1782205
+Sphere                        93757440               0
+Bounding Box                   7816132             251
+Light Buffer                  17361739        11478451
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            976640   Succeeded:                     0
+Bounding Queues:           21486331
+Queue Resets:               1953280   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           140800   Samples:          985600
+Rays:             985600   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              25625600               0
+Plane                         59136000        55485504
+Quadric                        9856000         1797494
+Sphere                        94617600               0
+Bounding Box                   7890368             464
+Light Buffer                  17534198        11585222
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            985600   Succeeded:                     0
+Bounding Queues:           21683664
+Queue Resets:               1971200   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           142080   Samples:          994560
+Rays:             994560   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              25858560               0
+Plane                         59673600        55983908
+Quadric                        9945600         1812762
+Sphere                        95477760               0
+Bounding Box                   7966296             818
+Light Buffer                  17706954        11692026
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:            994560   Succeeded:                     0
+Bounding Queues:           21881138
+Queue Resets:               1989120   Queue Resizes:                 0
+----------------------------------------------------------------------------
+Render Statistics (Partial Image Rendered)
+Image Resolution 1280 x 1024
+----------------------------------------------------------------------------
+Pixels:           143360   Samples:         1003520
+Rays:            1003520   Saved:                 0   Max Level: 1/5
+----------------------------------------------------------------------------
+Ray->Shape Intersection          Tests       Succeeded
+----------------------------------------------------------------------------
+CSG Intersection              26091520               0
+Plane                         60211200        56482232
+Quadric                       10035200         1828015
+Sphere                        96337920               0
+Bounding Box                   8044192            1336
+Light Buffer                  17879917        11798853
+----------------------------------------------------------------------------
+Calls to Noise:                   0   Calls to DNoise:              10
+----------------------------------------------------------------------------
+Shadow Ray Tests:           1003520   Succeeded:                     0
+Bounding Queues:           22078776
+Queue Resets:               2007040   Queue Resizes:                 0
+----------------------------------------------------------------------------
